@@ -1,0 +1,8 @@
+C:\Users\abdul\source\repos\RecipeApplication\RecipeApplication\bin\Debug\RecipeApplication.exe.config
+C:\Users\abdul\source\repos\RecipeApplication\RecipeApplication\bin\Debug\RecipeApplication.exe
+C:\Users\abdul\source\repos\RecipeApplication\RecipeApplication\bin\Debug\RecipeApplication.pdb
+C:\Users\abdul\source\repos\RecipeApplication\RecipeApplication\obj\Debug\RecipeApplication.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\RecipeApplication\RecipeApplication\obj\Debug\RecipeApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdul\source\repos\RecipeApplication\RecipeApplication\obj\Debug\RecipeApplication.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\RecipeApplication\RecipeApplication\obj\Debug\RecipeApplication.exe
+C:\Users\abdul\source\repos\RecipeApplication\RecipeApplication\obj\Debug\RecipeApplication.pdb
